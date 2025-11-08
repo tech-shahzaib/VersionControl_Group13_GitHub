@@ -5,14 +5,9 @@ while providing essential tools like version history and collaboration features 
 2. Key Features of GitHub:
 
 Version Control: Tracks and manages code changes using Git.
-
 Repositories: Store project files and their full revision history.
-
 Branches: Enable separate development for new features or fixes.
-
 Pull Requests: Allow proposing and reviewing changes before merging.
-
-Commits: Record project snapshots with descriptive messages.
 
 Issues: Track bugs, improvements, and project tasks efficiently.
 
