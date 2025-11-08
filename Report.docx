@@ -1,0 +1,24 @@
+1. Introduction:
+GitHub is currently the most used web-based platform for hosting Git repositories. While Git is the version control technology itself, essentially tracking changes in the files, GitHub provides the interface and collaboration tools necessary to make Git into such a strong social coding and team management platform. It allows developers and teams to store, track, and manage their code projects in the cloud.
+
+2. Key Features of GitHub:
+Version Control
+It tracks and manages changes in your code over time using Git.
+
+Repositories
+Repos stores all your project files and their complete history.
+
+Branches
+These let you create separate lines of development for new features or fixes.
+
+Pull Requests
+PRs allow team members to propose and review code changes before merging.
+
+Commits
+Commits save snapshots of your project with descriptive messages.
+
+Issues
+These are used to track bugs, enhancements, and project tasks efficiently.
+
+3. Purpose of the Collaboration Exercise
+For this assignment, our main focus is on Branching and Pull Requests. Each team member will create a branch and contribute a section to this report. The Team Leader should then use Pull Requests to review and merge all those sections, specifically demonstrating the ability to resolve merge conflicts in a realistic scenario.
