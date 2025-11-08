@@ -3,32 +3,20 @@ GitHub is currently the most used web-based platform for hosting Git repositorie
 It allows developers to store, manage, and track changes in their code, and collaborate with others on projects, whether small or large.
 
 2. Key Features of GitHub:
-Version Control
-It tracks and manages changes in your code over time using Git.
 
-Repositories
-Repos stores all your project files and their complete history.
+Version Control: Tracks and manages code changes using Git.
 
-Branches
-These let you create separate lines of development for new features or fixes.
+Repositories: Store project files and their full revision history.
 
-Pull Requests
-PRs allow team members to propose and review code changes before merging.
+Branches: Enable separate development for new features or fixes.
 
-Commits
-Commits save snapshots of your project with descriptive messages.
+Pull Requests: Allow proposing and reviewing changes before merging.
 
-Issues
-These are used to track bugs, enhancements, and project tasks efficiently.
+Commits: Record project snapshots with descriptive messages.
 
-Free and Paid Plans:
+Issues: Track bugs, improvements, and project tasks efficiently.
 
-GitHub offers free private repositories for individuals and teams.
+Issues: Provide an organized way to report bugs, suggest enhancements, and manage project-related tasks, improving workflow transparency and communication.
 
-Paid plans include advanced features like enhanced security, analytics, and enterprise collaboration.
-
-3. Purpose of the Collaboration Exercise
-For this assignment, our main focus is on Branching and Pull Requests. Each team member will create a branch and contribute a section to this report. The Team Leader should then use Pull Requests to review and merge all those sections, specifically demonstrating the ability to resolve merge conflicts in a realistic scenario.
-
-Conclusuion:
-GitHub is a powerful platform for managing software projects using Git. It allows team collaboration, tracking of changes, branching, and merging. Its pull requests and review features make it easy to maintain high-quality code while working with multiple contributors.”
+3. Conclusion:
+This exercise emphasizes the use of Branching and Pull Requests to enhance collaborative development. Each team member contributes through individual branches, while the Team Leader manages reviews and merges, showcasing practical skills in handling merge conflicts and teamwork within GitHub.
