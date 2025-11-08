@@ -14,6 +14,6 @@ Issues: Track bugs, improvements, and project tasks efficiently.
 Issues: Provide an organized way to report bugs, suggest enhancements, and manage project-related tasks, improving workflow transparency and communication.
 
 3. Conclusion:
-This exercise successfully demonstrated the core version control concepts of Branching and Pull Requests.
- We practiced contributing content on individual branches and understood the Team Leader’s role in reviewing and merging changes.
- The process provided practical experience in resolving merge conflicts and significantly improved team coordination on GitHub.
+1. This exercise helped us successfully learn and apply core version control concepts like Branching and Pull Requests.
+2. We gained practical experience by contributing work on separate branches and understanding the Team Leader's role in merging.
+3. The process successfully prepared us to handle real-world merge conflicts and improved our team coordination on GitHub.
