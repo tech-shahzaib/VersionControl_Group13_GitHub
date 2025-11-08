@@ -21,5 +21,14 @@ Commits save snapshots of your project with descriptive messages.
 Issues
 These are used to track bugs, enhancements, and project tasks efficiently.
 
+Free and Paid Plans
+
+GitHub offers free private repositories for individuals and teams.
+
+Paid plans include advanced features like enhanced security, analytics, and enterprise collaboration.
+
 3. Purpose of the Collaboration Exercise
 For this assignment, our main focus is on Branching and Pull Requests. Each team member will create a branch and contribute a section to this report. The Team Leader should then use Pull Requests to review and merge all those sections, specifically demonstrating the ability to resolve merge conflicts in a realistic scenario.
+
+Conclusuion:
+GitHub is a powerful platform for managing software projects using Git. It allows team collaboration, tracking of changes, branching, and merging. Its pull requests and review features make it easy to maintain high-quality code while working with multiple contributors.”
