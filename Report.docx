@@ -4,15 +4,17 @@ It enables developers and teams to securely store, monitor, and manage their cod
 
 2. Key Features of GitHub:
 
-Version Control: Manages and tracks all modifications made to the codebase over time using Git, ensuring efficient collaboration and rollback options when needed.
+Version Control: Tracks and manages code changes using Git.
 
-Repositories: Serve as centralized storage locations containing all project files, along with their complete version history and documentation.
+Repositories: Store project files and their full revision history.
 
-Branches: Allow developers to work on new features, fixes, or experiments independently without affecting the main codebase.
+Branches: Enable separate development for new features or fixes.
 
-Pull Requests: Facilitate collaboration by enabling contributors to propose changes, discuss improvements, and request reviews before merging updates into the main branch.
+Pull Requests: Allow proposing and reviewing changes before merging.
 
-Commits: Represent saved versions or snapshots of the project, each accompanied by descriptive messages explaining the specific changes made.
+Commits: Record project snapshots with descriptive messages.
+
+Issues: Track bugs, improvements, and project tasks efficiently.
 
 Issues: Provide an organized way to report bugs, suggest enhancements, and manage project-related tasks, improving workflow transparency and communication.
 
